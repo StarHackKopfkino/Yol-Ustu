@@ -11,4 +11,4 @@ function GasStationComponent(props){
     );
 }
 
-export default TestComponent;
+export default GasStationComponent;

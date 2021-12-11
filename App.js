@@ -8,6 +8,7 @@ export default function App() {
       <RestaurantComponent></RestaurantComponent>
       <GasStationComponent></GasStationComponent>
       <StoreComponent></StoreComponent>
+      <HomePageComponent></HomePageComponent>
     </View>
   );
 }
